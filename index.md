@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+Using the Vinyl Cutter
 
-You can use the [editor on GitHub](https://github.com/arjunhari2704/VINYL-CUTTER/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+STEP 1: Make the image to cut
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Find or make an image that you want to make into a sticker. You can create an image with Open Office Draw, or Gimp. Other programs can work fine.Your image should be black and white with no gray for best results.
 
-### Markdown
+Save the image as a JPEG The software running the cutter likes to have a jpeg, Scaleable Vector Graphic (.SVG) can work fine as well.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+You could also open with a preffered browser and copy and paste into the cutting program, which is in this case, CutStudio.
 
-```markdown
-Syntax highlighted code block
+STEP 2: Open Cut Studio, the software bundled with the cutter.
 
-# Header 1
-## Header 2
-### Header 3
+STEP 3: Import your image. It should show up as a grayed out picture.
 
-- Bulleted
-- List
+STEP 4: Right click on the image, then choose Trace Image Outline. A dialog box will come up, you can adjust the accuracy of the cuts by adjusting the values. You will see an outline of your image laid on top of the picture.
 
-1. Numbered
-2. List
+STEP 5: Click the Move button on the upper right to put the outline in the bottom right of the design area. Next, delete the picture.
 
-**Bold** and _Italic_ and `Code` text
+STEP 6: Right click on the picture and choose ‘Properties’. There are three tabs. For size, choose the size that will fit your sample piece of vinyl. The cutter measures in millimeters. If you need to rotate the image to fit the sticker size, you can do that in the ‘Rotation’ field. If you haven’t already, to put a box, oval or circle around your image to make it easier to separate later.
 
-[Link](url) and ![Image](src)
-```
+STEP 7: Set the hardware
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Check the display. It shoulde say Sheer unloaded intil you engage the pressure roller. Then you will need to use the down arrow to tell the machine you have loaded a piece or a roll. If you choose piece, the cutter head will move sideways, measure the space between the rollers, then it will move the piece out, the back in, then to its original position. This process used the ‘eyes’ to measure the height of the piece. you then should be able to see the readout on the display of the pieces measurements.
 
-### Jekyll Themes
+STEP 8: Press the Cut button on the icon bar.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arjunhari2704/VINYL-CUTTER/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The cutter head should then move side to side and the vinyl should move back and forth. When the design is cut, you can use the arrow keys to move the vinyl out of the machine. There is a groove on the front of the machine. Use a razor knife in this groove to cut the piece off. Your design piece is ready.
